@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31611.283
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AuthTest", "AuthTest\AuthTest.csproj", "{4D1FF282-87EF-44E5-8F6B-52D8C106801D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebAuth", "WebAuth\WebAuth.csproj", "{FD2D88F4-EF35-4B3C-A3FD-D67590C4B1D2}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Essentials.Sample.Server.WebAuthenticator", "..\..\..\Downloads\maui-main\src\Essentials\samples\Sample.Server.WebAuthenticator\Essentials.Sample.Server.WebAuthenticator.csproj", "{A62780E2-987C-44BB-9302-EF12F5663C1C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4D1FF282-87EF-44E5-8F6B-52D8C106801D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D1FF282-87EF-44E5-8F6B-52D8C106801D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D1FF282-87EF-44E5-8F6B-52D8C106801D}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{4D1FF282-87EF-44E5-8F6B-52D8C106801D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D1FF282-87EF-44E5-8F6B-52D8C106801D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D1FF282-87EF-44E5-8F6B-52D8C106801D}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{FD2D88F4-EF35-4B3C-A3FD-D67590C4B1D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD2D88F4-EF35-4B3C-A3FD-D67590C4B1D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD2D88F4-EF35-4B3C-A3FD-D67590C4B1D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD2D88F4-EF35-4B3C-A3FD-D67590C4B1D2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A62780E2-987C-44BB-9302-EF12F5663C1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A62780E2-987C-44BB-9302-EF12F5663C1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A62780E2-987C-44BB-9302-EF12F5663C1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A62780E2-987C-44BB-9302-EF12F5663C1C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {61F7FB11-1E47-470C-91E2-47F8143E1572}
+	EndGlobalSection
+EndGlobal
